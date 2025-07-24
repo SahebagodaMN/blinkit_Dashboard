@@ -64,7 +64,7 @@ This Excel dashboard provides a visual summary of Blinkit’s sales performance 
 
 ### 🖼️ Dashboard Preview
 
-![Dashboard Preview](./screenshots/dashboard_preview.png)
+![Dashboard Screenshot](https://github.com/SahebagodaMN/blinkit_Dashboard/blob/main/Screenshot%202025-07-24%20215233.png)
 
 ---
 ###  **Dataset Used**
@@ -75,7 +75,7 @@ This Excel dashboard provides a visual summary of Blinkit’s sales performance 
 
 ###  **Dashboard Image**
 
-![Dashboard Screenshot](https://github.com/SahebagodaMN/Data_Analyst2/blob/main/screenshot.png)
+![Dashboard Screenshot](https://github.com/SahebagodaMN/blinkit_Dashboard/blob/main/Screenshot%202025-07-24%20215233.png)
 ---
 
 ### 🏁 Conclusion
