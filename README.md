@@ -62,20 +62,16 @@ This Excel dashboard provides a visual summary of Blinkit’s sales performance 
 
 ---
 
-### 🖼️ Dashboard Preview
-
-![Dashboard Screenshot](https://github.com/SahebagodaMN/blinkit_Dashboard/blob/main/Screenshot%202025-07-24%20215233.png)
-
----
 ###  **Dataset Used**
 
 *  <a href="https://github.com/SahebagodaMN/blinkit_Dashboard/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx">Blinkit Sales Dataset</a>
 
 ---
 
-###  **Dashboard Image**
+### 🖼️ Dashboard Preview
 
 ![Dashboard Screenshot](https://github.com/SahebagodaMN/blinkit_Dashboard/blob/main/Screenshot%202025-07-24%20215233.png)
+
 ---
 
 ### 🏁 Conclusion
