@@ -17,15 +17,6 @@ This Excel dashboard provides a visual summary of Blinkit’s sales performance 
 
 ---
 
-### 📂 Sheets Included
-
-* **Dashboard** – Visual dashboard with KPIs and charts.
-* **Pivot\_table\_&\_Charts** – Base pivot tables for chart generation.
-* **Clean\_Data** – Preprocessed dataset for analysis.
-* **Blinkit Grocery Data** – Original dataset used in the project.
-
----
-
 ### 📈 Key Features
 
 * 💰 **Total Sales**: \$1.20M analyzed across categories.
@@ -60,16 +51,7 @@ This Excel dashboard provides a visual summary of Blinkit’s sales performance 
 * **Fruits & Vegetables**, **Snack Foods**, and **Household** items dominate revenue.
 * **High-size outlets** significantly outperform others.
 * Regular fat products have higher sales than low-fat.
-
----
-
-### 📤 How to Use
-
-1. Download or clone the repository.
-2. Open `Blinkit_Sales_Dashboard.xlsx`.
-3. Navigate to the `Dashboard` tab.
-4. Use the slicers (left panel) to filter insights by Outlet Size, Location, and Item Type.
-
+  
 ---
 
 ### 💡 Future Enhancements
@@ -80,25 +62,20 @@ This Excel dashboard provides a visual summary of Blinkit’s sales performance 
 
 ---
 
-### 📁 Repository Structure
-
-```
-📦 blinkit-dashboard-excel/
-├── Blinkit_Sales_Dashboard.xlsx
-├── README.md
-└── /screenshots/
-    └── dashboard_preview.png
-```
-
----
-
 ### 🖼️ Dashboard Preview
 
 ![Dashboard Preview](./screenshots/dashboard_preview.png)
 
 ---
-Here’s a **professional conclusion** you can add to your `README.md` for the **Blinkit Excel Dashboard Project**:
+###  **Dataset Used**
 
+*  <a href="https://github.com/SahebagodaMN/Data_Analyst/blob/main/Employee_Attrition.xls">Employee Attrition Dataset</a>
+
+---
+
+###  **Dashboard Image**
+
+![Dashboard Screenshot](https://github.com/SahebagodaMN/Data_Analyst2/blob/main/screenshot.png)
 ---
 
 ### 🏁 Conclusion
