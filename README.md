@@ -69,7 +69,7 @@ This Excel dashboard provides a visual summary of Blinkit’s sales performance 
 ---
 ###  **Dataset Used**
 
-*  <a href="https://github.com/SahebagodaMN/Data_Analyst/blob/main/Employee_Attrition.xls">Employee Attrition Dataset</a>
+*  <a href="https://github.com/SahebagodaMN/blinkit_Dashboard/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx">Blinkit Sales Dataset</a>
 
 ---
 
